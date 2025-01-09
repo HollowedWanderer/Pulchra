@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "part=default": {
+      "model": "pulchra:block/big_candle"
+    },
+    "part=bottom": {
+      "model": "pulchra:block/big_candle_bottom"
+    },
+    "part=middle": [
+      {
+        "model": "pulchra:block/big_candle_middle"
+      }
+    ],
+    "part=top": {
+      "model": "pulchra:block/big_candle_top"
+    }
+  }
+}

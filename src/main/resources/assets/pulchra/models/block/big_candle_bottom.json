@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "side": "pulchra:block/big_candle_bottom",
+    "end": "pulchra:block/big_candle_top"
+  }
+}

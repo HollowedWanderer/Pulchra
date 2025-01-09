@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "part=default": {
+      "model": "pulchra:block/pedestal"
+    },
+    "part=bottom": {
+      "model": "pulchra:block/pedestal_bottom"
+    },
+    "part=middle": [
+      {
+        "model": "pulchra:block/pedestal_middle"
+      },
+      {
+        "model": "pulchra:block/pedestal_middle_cracked"
+      }
+    ],
+    "part=top": {
+      "model": "pulchra:block/pedestal_top"
+    }
+  }
+}

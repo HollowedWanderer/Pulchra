@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "pulchra:slate"
+    }
+  },
+  "result": {
+    "id": "pulchra:slate_bricks",
+    "count": 4
+  }
+}
